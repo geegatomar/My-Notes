@@ -4,4 +4,4 @@
 
 [Message Queues and Interview Prep](https://docs.google.com/document/d/1fi0f2mH8GfoEoIlaWujDPvaO3aM_vWLLDfmOMJrs6xM/edit)
 
-[Go Lang](https://docs.google.com/document/d/110vDpdc1e_cJKB0Dkk80BunFkId7wmdvaTHXdqdXIbc/edit)
+[Go Lang Notes](https://docs.google.com/document/d/110vDpdc1e_cJKB0Dkk80BunFkId7wmdvaTHXdqdXIbc/edit)
