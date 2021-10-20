@@ -11,3 +11,5 @@
 [D.E.Shaw Desis Educare Learnings and Notes](https://docs.google.com/document/d/1ZgvnFiZxj607fy1LXJf8XvXcySzhZ5dCboQFpEozzZw/) 
 
 [Java Notes](https://docs.google.com/document/d/110vDpdc1e_cJKB0Dkk80BunFkId7wmdvaTHXdqdXIbc/)
+
+[System Design](https://docs.google.com/document/d/1DnKLnzSxEq6ceTGuQTs0z9S_boAGttW2zhcqBSMljxI/edit)
