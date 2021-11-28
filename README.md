@@ -13,3 +13,6 @@
 [Java Notes](https://docs.google.com/document/d/110vDpdc1e_cJKB0Dkk80BunFkId7wmdvaTHXdqdXIbc/)
 
 [System Design Notes](https://docs.google.com/document/d/1DnKLnzSxEq6ceTGuQTs0z9S_boAGttW2zhcqBSMljxI/edit)
+
+[Open Source](https://docs.google.com/document/d/1u760qKAJyzH04eQwMjOfZEqv2IWilTcdJptrIuZZGyc/edit)
+
