@@ -17,3 +17,5 @@
 [Open Source](https://docs.google.com/document/d/1u760qKAJyzH04eQwMjOfZEqv2IWilTcdJptrIuZZGyc/edit)
 
 [GoLang Notes](https://docs.google.com/document/d/1SEdfSZIkBIrSdfk2M4i1ZxP3U92AUre__4ywf79gnPc/edit)
+
+[Kubernetes Notes](https://docs.google.com/document/d/1FGcwoRnmIUoiNtnbMkLwoVB5NFJ1LECew4yWfYoJsbc/edit)
