@@ -21,3 +21,5 @@
 [Kubernetes Notes](https://docs.google.com/document/d/1FGcwoRnmIUoiNtnbMkLwoVB5NFJ1LECew4yWfYoJsbc/edit)
 
 [gRPC Notes](https://docs.google.com/document/d/1Y6amw-WbBZDKUeUJ3unML0tPe418-XuI8YGcoWZLFHA/edit)
+
+[Crypto Notes](https://docs.google.com/document/d/1WixC42nfCBcL0caoUZ_28t4_mT_6NwewWx5ZfmpTJ7c/edit)
