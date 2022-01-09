@@ -25,3 +25,5 @@
 [Crypto Notes](https://docs.google.com/document/d/1WixC42nfCBcL0caoUZ_28t4_mT_6NwewWx5ZfmpTJ7c/edit)
 
 [Matlab Crypto Notes](https://docs.google.com/document/d/1cm5BWf9mmnT2W6hVL-L4TfaZ6ZVVP9Qtx7PXPnd61Vk/edit)
+
+[Sezzle Learning Notes](https://docs.google.com/document/d/1qu9lp7l6bF-EQaqApeVizrbM0P-Tt2qk9huQrAEkqXk/edit)
