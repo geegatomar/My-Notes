@@ -29,3 +29,5 @@
 [Sezzle Learning Notes](https://docs.google.com/document/d/1qu9lp7l6bF-EQaqApeVizrbM0P-Tt2qk9huQrAEkqXk/edit)
 
 [Computer Networks | Cyber Security | Ethical Hacking](https://docs.google.com/document/d/190KlkylTTrFZtVdV2ujCCTEv9oTRFucqG7MbORpjRUw/edit)
+
+[Pending Work Sheet](https://docs.google.com/spreadsheets/d/1m8OKE4yAg42GfNh9NbFGim3_KQbEygqrbUPTajfvVHg/edit#gid=0)
