@@ -33,3 +33,5 @@
 [Android Development - DESIS Project](https://docs.google.com/document/d/1xRyfq8X6vZJAUQCi1KztIpgr79x83mElWOfYs2QhBsk/edit)
 
 [Pending Work Sheet](https://docs.google.com/spreadsheets/d/1m8OKE4yAg42GfNh9NbFGim3_KQbEygqrbUPTajfvVHg/edit#gid=0)
+
+[Stock Market Simulator Project | Desis Project Notes](https://docs.google.com/document/d/1OF-tJUnceJboiVc4Xuc9px_tdWObm0wTH7l_9dJcjLc/edit)
