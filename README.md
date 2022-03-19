@@ -35,3 +35,5 @@
 [Pending Work Sheet](https://docs.google.com/spreadsheets/d/1m8OKE4yAg42GfNh9NbFGim3_KQbEygqrbUPTajfvVHg/edit#gid=0)
 
 [Stock Market Simulator Project | Desis Project Notes](https://docs.google.com/document/d/1OF-tJUnceJboiVc4Xuc9px_tdWObm0wTH7l_9dJcjLc/edit)
+
+[Operating Systems Notes](https://docs.google.com/document/d/1h7eittuWZN2ThUcOKGKHhDIP-L70LGnGajfQwTBWeos/edit)
