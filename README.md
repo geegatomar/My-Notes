@@ -37,3 +37,5 @@
 [Stock Market Simulator Project | Desis Project Notes](https://docs.google.com/document/d/1OF-tJUnceJboiVc4Xuc9px_tdWObm0wTH7l_9dJcjLc/edit)
 
 [Operating Systems Notes](https://docs.google.com/document/d/1h7eittuWZN2ThUcOKGKHhDIP-L70LGnGajfQwTBWeos/edit)
+
+[Amazon Leadership Princples](https://docs.google.com/document/d/1dHV1dJXaOq1u35nQCymWN4BW0xOsZ1XvMtkt2XHKZgE/edit)
