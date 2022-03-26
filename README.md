@@ -39,3 +39,5 @@
 [Operating Systems Notes](https://docs.google.com/document/d/1h7eittuWZN2ThUcOKGKHhDIP-L70LGnGajfQwTBWeos/edit)
 
 [Amazon Leadership Princples](https://docs.google.com/document/d/1dHV1dJXaOq1u35nQCymWN4BW0xOsZ1XvMtkt2XHKZgE/edit)
+
+[Cloud Computing Notes](https://docs.google.com/document/d/1p9aIyG_Lj0J0X6gMuQKe3LUvwJjiZg8462TnPSR5OSk/edit)
