@@ -43,3 +43,5 @@
 [Cloud Computing Notes](https://docs.google.com/document/d/1p9aIyG_Lj0J0X6gMuQKe3LUvwJjiZg8462TnPSR5OSk/edit)
 
 [Major Project Notes](https://docs.google.com/document/d/19KYTUK5-H63ihi0-40M7w3f7o3xEm2Wwgfd9rCsZ-6Y/edit)
+
+[OAuth and OpenID Connect Notes](https://docs.google.com/document/d/1B0eWhhxk5SiOCDhOIbSXESQspFbxvnWnE9TCwsrlYd0/edit)
