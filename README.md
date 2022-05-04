@@ -45,3 +45,5 @@
 [Major Project Notes](https://docs.google.com/document/d/19KYTUK5-H63ihi0-40M7w3f7o3xEm2Wwgfd9rCsZ-6Y/edit)
 
 [OAuth and OpenID Connect Notes](https://docs.google.com/document/d/1B0eWhhxk5SiOCDhOIbSXESQspFbxvnWnE9TCwsrlYd0/edit)
+
+[DSA Prep Latest Notes](https://docs.google.com/document/d/1fdd1v1aVU46LSjIh4gx_4ckYrbPP4wY5Y-fHssRP5Mk/edit)
