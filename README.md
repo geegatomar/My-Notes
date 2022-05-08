@@ -26,7 +26,7 @@
 
 [Matlab Crypto Notes](https://docs.google.com/document/d/1cm5BWf9mmnT2W6hVL-L4TfaZ6ZVVP9Qtx7PXPnd61Vk/edit)
 
-[Sezzle Learning Notes](https://docs.google.com/document/d/1qu9lp7l6bF-EQaqApeVizrbM0P-Tt2qk9huQrAEkqXk/edit)
+[Sezzle Learning Notes | Git Notes](https://docs.google.com/document/d/1qu9lp7l6bF-EQaqApeVizrbM0P-Tt2qk9huQrAEkqXk/edit)
 
 [Computer Networks | Cyber Security | Ethical Hacking](https://docs.google.com/document/d/190KlkylTTrFZtVdV2ujCCTEv9oTRFucqG7MbORpjRUw/edit)
 
