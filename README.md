@@ -49,3 +49,5 @@
 [DSA Prep Latest Notes](https://docs.google.com/document/d/1fdd1v1aVU46LSjIh4gx_4ckYrbPP4wY5Y-fHssRP5Mk/edit)
 
 [Reinforcement Learning](https://docs.google.com/document/d/1l8uAzxXm3_uS8P8_0p1xiJVZXlfI2QZ2kxamKpP46qU/edit)
+
+[GRE Vocab Words Notes](https://docs.google.com/document/d/1DHFjmDFvrk7pvzCoYOo02kDT3M-3kesbtpRrPhXg4IM/edit)
